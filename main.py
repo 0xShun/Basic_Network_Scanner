@@ -93,8 +93,3 @@ if __name__ == "__main__":
             print("Follow the IP Address format ; 192.168.1.1 for single IP\n or 192.168.1.0/24 for subnet")
             sleep(3)
             exit()
-
-    
-
-   
-
