@@ -42,4 +42,30 @@ pyvenv.cfg
 
 # Local development settings
 .env
-.env.local 
+.env.local
+
+# Test and Coverage Reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Pytest Cache
+.pytest_cache/
+
+# MyPy Cache
+.mypy_cache/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Compiled Python Files
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Backup Files
+*~
+*.bak 
